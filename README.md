@@ -1,2 +1,2 @@
 # coursera
-Code generated during Coursera courses
+Code generated during Coursera Programming with Google Go courses
